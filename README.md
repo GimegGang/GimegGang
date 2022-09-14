@@ -6,4 +6,3 @@
     <a href="mailto:timofeyf59@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?logo=gmail&logoColor=red&style=for-the-badge" alt="Youtube Badge"/></a>
     <a href="https://discordapp.com/users/557141005455851533/"></href><img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white&style=for-the-badge" alt="Twitter Badge"/></a>
   </div>
-  <img src="https://komarev.com/ghpvc/?GimegGang&style=flat-square&color=blue" alt=""/>
